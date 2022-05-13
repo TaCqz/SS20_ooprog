@@ -1,0 +1,171 @@
+
+------------------------------------------------------------------------
+-    Edeko Centre Kaufhaus am See | Hauptstr. 1, 29389 Bad Bodenteich  -
+------------------------------------------------------------------------
+Datum: 03.06.2020
+Uhrzeit: 08:00
+
+Laden hat nun geöffnet!
+
+
+Für den Artikel Gaming PC V1 Intel i7 8700k wurden 10 nachbestellt!
+
+Für den Artikel Tisch, Eiche wurden 4 nachbestellt!
+
+
+
+
+Einkauf:     
+Janusz Oberle, 
+Fernseher WQHD Ultra von Samsong, 
+1, 
+03.06.2020  08:00
+
+
+Einkauf:     
+Janusz Oberle, 
+Gaming PC V1 Intel i7 8700k, 
+3, 
+03.06.2020  08:00
+
+
+Der Bestand des Artikels Harrie Vollkornbrot liegt unter dem Mindestbestand!
+
+Einkauf:     
+Janusz Oberle, 
+Harrie Vollkornbrot, 
+3, 
+03.06.2020  08:00
+
+
+Einkauf:     
+Carmen Falke, 
+Gaming PC V1 Intel i7 8700k, 
+3, 
+03.06.2020  11:00
+
+
+Der Bestand des Artikels Harrie Vollkornbrot liegt unter dem Mindestbestand!
+
+Einkauf:     
+Carmen Falke, 
+Harrie Vollkornbrot, 
+1, 
+03.06.2020  11:00
+
+
+Einkauf:     
+Carmen Falke, 
+Jeans, 
+1, 
+03.06.2020  11:00
+
+
+Der Bestand des Artikels Diadem, Kristall liegt unter dem Mindestbestand!
+
+Einkauf:     
+Miodrag Wieser, 
+Diadem, Kristall, 
+2, 
+03.06.2020  12:00
+
+
+Einkauf:     
+Miodrag Wieser, 
+Ohrring, Diamant, 
+2, 
+03.06.2020  12:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Miodrag Wieser, 
+Gaming PC V1 Intel i7 8700k, 
+2, 
+03.06.2020  12:00
+
+
+Der Bestand des Artikels Fernseher WQHD Ultra von Samsong liegt unter dem Mindestbestand!
+
+Einkauf:     
+Wolf-Dietrich Erhardt, 
+Fernseher WQHD Ultra von Samsong, 
+2, 
+03.06.2020  16:00
+
+
+Der Bestand des Artikels Diadem, Kristall liegt unter dem Mindestbestand!
+
+Einkauf:     
+Wolf-Dietrich Erhardt, 
+Diadem, Kristall, 
+1, 
+03.06.2020  16:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Wolf-Dietrich Erhardt, 
+Gaming PC V1 Intel i7 8700k, 
+2, 
+03.06.2020  16:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Gerta Nehring, 
+Gaming PC V1 Intel i7 8700k, 
+1, 
+03.06.2020  17:00
+
+
+Der Bestand des Artikels Fernseher WQHD Ultra von Samsong liegt unter dem Mindestbestand!
+
+Einkauf:     
+Gerta Nehring, 
+Fernseher WQHD Ultra von Samsong, 
+2, 
+03.06.2020  17:00
+
+
+Einkauf:     
+Jano Haberland, 
+Jeans, 
+2, 
+03.06.2020  19:00
+
+
+Der Bestand des Artikels Hemd liegt unter dem Mindestbestand!
+
+Einkauf:     
+Jano Haberland, 
+Hemd, 
+2, 
+03.06.2020  19:00
+
+
+Einkauf:     
+Jano Haberland, 
+Apfel, 1KG Sack, 
+2, 
+03.06.2020  19:00
+
+
+
+
+Der Laden hat nun geschlossen!
+
+
+Artikelname: Hemd                                 Menge: 4          Verkauft: 2        Gewinn: 10,00
+Artikelname: Jeans                                Menge: 10         Verkauft: 3        Gewinn: 23,97
+Artikelname: Gaming PC V1 Intel i7 8700k          Menge: 0          Verkauft: 11        Gewinn: 989,89
+Artikelname: Fernseher WQHD Ultra von Samsong     Menge: 0          Verkauft: 5        Gewinn: 495,00
+Artikelname: Harrie Vollkornbrot                  Menge: 0          Verkauft: 4        Gewinn: 1,20
+Artikelname: Apfel, 1KG Sack                      Menge: 11         Verkauft: 2        Gewinn: 0,80
+Artikelname: Tisch, Eiche                         Menge: 4          Verkauft: 0        Gewinn: 0,00
+Artikelname: Stuhl, auch Eiche                    Menge: 8          Verkauft: 0        Gewinn: 0,00
+Artikelname: Diadem, Kristall                     Menge: 5          Verkauft: 3        Gewinn: 32,97
+Artikelname: Ohrring, Diamant                     Menge: 13         Verkauft: 2        Gewinn: 111,98

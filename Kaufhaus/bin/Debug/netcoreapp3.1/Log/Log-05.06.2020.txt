@@ -1,0 +1,195 @@
+
+------------------------------------------------------------------------
+-    Edeko Centre Kaufhaus am See | Hauptstr. 1, 29389 Bad Bodenteich  -
+------------------------------------------------------------------------
+Datum: 05.06.2020
+Uhrzeit: 08:00
+
+Laden hat nun geöffnet!
+
+
+Für den Artikel Hemd wurden 10 nachbestellt!
+
+Für den Artikel Jeans wurden 12 nachbestellt!
+
+Für den Artikel Apfel, 1KG Sack wurden 14 nachbestellt!
+
+Für den Artikel Tisch, Eiche wurden 4 nachbestellt!
+
+Für den Artikel Stuhl, auch Eiche wurden 16 nachbestellt!
+
+Für den Artikel Ohrring, Diamant wurden 16 nachbestellt!
+
+
+
+
+Einkauf:     
+Hardy Gerke, 
+Apfel, 1KG Sack, 
+2, 
+05.06.2020  09:00
+
+
+Einkauf:     
+Hardy Gerke, 
+Stuhl, auch Eiche, 
+1, 
+05.06.2020  09:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Hardy Gerke, 
+Gaming PC V1 Intel i7 8700k, 
+2, 
+05.06.2020  09:00
+
+
+Einkauf:     
+Cathrin Hartig, 
+Hemd, 
+2, 
+05.06.2020  10:00
+
+
+Einkauf:     
+Cathrin Hartig, 
+Tisch, Eiche, 
+1, 
+05.06.2020  10:00
+
+
+Der Bestand des Artikels Harrie Vollkornbrot liegt unter dem Mindestbestand!
+
+Einkauf:     
+Cathrin Hartig, 
+Harrie Vollkornbrot, 
+3, 
+05.06.2020  10:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Markus Bergemann, 
+Gaming PC V1 Intel i7 8700k, 
+3, 
+05.06.2020  11:00
+
+
+Der Bestand des Artikels Harrie Vollkornbrot liegt unter dem Mindestbestand!
+
+Einkauf:     
+Markus Bergemann, 
+Harrie Vollkornbrot, 
+1, 
+05.06.2020  11:00
+
+
+Einkauf:     
+Songül Mönch, 
+Apfel, 1KG Sack, 
+3, 
+05.06.2020  12:00
+
+
+Einkauf:     
+Songül Mönch, 
+Diadem, Kristall, 
+2, 
+05.06.2020  12:00
+
+
+Einkauf:     
+Alan Schmieder, 
+Apfel, 1KG Sack, 
+3, 
+05.06.2020  13:00
+
+
+Der Bestand des Artikels Diadem, Kristall liegt unter dem Mindestbestand!
+
+Einkauf:     
+Alan Schmieder, 
+Diadem, Kristall, 
+1, 
+05.06.2020  13:00
+
+
+Der Bestand des Artikels Apfel, 1KG Sack liegt unter dem Mindestbestand!
+
+Einkauf:     
+Sedat Schneller, 
+Apfel, 1KG Sack, 
+3, 
+05.06.2020  15:00
+
+
+Der Bestand des Artikels Tisch, Eiche liegt unter dem Mindestbestand!
+
+Einkauf:     
+Sedat Schneller, 
+Tisch, Eiche, 
+3, 
+05.06.2020  15:00
+
+
+Der Bestand des Artikels Fernseher WQHD Ultra von Samsong liegt unter dem Mindestbestand!
+
+Einkauf:     
+Jobst Knop, 
+Fernseher WQHD Ultra von Samsong, 
+2, 
+05.06.2020  16:00
+
+
+Der Bestand des Artikels Fernseher WQHD Ultra von Samsong liegt unter dem Mindestbestand!
+
+Einkauf:     
+Jobst Knop, 
+Fernseher WQHD Ultra von Samsong, 
+2, 
+05.06.2020  16:00
+
+
+Der Bestand des Artikels Diadem, Kristall liegt unter dem Mindestbestand!
+
+Einkauf:     
+Detlef Pieper, 
+Diadem, Kristall, 
+1, 
+05.06.2020  19:00
+
+
+Der Bestand des Artikels Apfel, 1KG Sack liegt unter dem Mindestbestand!
+
+Einkauf:     
+Detlef Pieper, 
+Apfel, 1KG Sack, 
+3, 
+05.06.2020  19:00
+
+
+Einkauf:     
+Detlef Pieper, 
+Stuhl, auch Eiche, 
+1, 
+05.06.2020  19:00
+
+
+
+
+Der Laden hat nun geschlossen!
+
+
+Artikelname: Hemd                                 Menge: 8          Verkauft: 2        Gewinn: 10,00
+Artikelname: Jeans                                Menge: 14         Verkauft: 0        Gewinn: 0,00
+Artikelname: Gaming PC V1 Intel i7 8700k          Menge: 0          Verkauft: 5        Gewinn: 449,95
+Artikelname: Fernseher WQHD Ultra von Samsong     Menge: 1          Verkauft: 4        Gewinn: 396,00
+Artikelname: Harrie Vollkornbrot                  Menge: 0          Verkauft: 4        Gewinn: 1,20
+Artikelname: Apfel, 1KG Sack                      Menge: 3          Verkauft: 14        Gewinn: 5,60
+Artikelname: Tisch, Eiche                         Menge: 1          Verkauft: 4        Gewinn: 43,96
+Artikelname: Stuhl, auch Eiche                    Menge: 15         Verkauft: 2        Gewinn: 31,98
+Artikelname: Diadem, Kristall                     Menge: 6          Verkauft: 4        Gewinn: 43,96
+Artikelname: Ohrring, Diamant                     Menge: 23         Verkauft: 0        Gewinn: 0,00

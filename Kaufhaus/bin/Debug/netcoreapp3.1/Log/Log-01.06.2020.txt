@@ -1,0 +1,183 @@
+
+------------------------------------------------------------------------
+-    Edeko Centre Kaufhaus am See | Hauptstr. 1, 29389 Bad Bodenteich  -
+------------------------------------------------------------------------
+Datum: 01.06.2020
+Uhrzeit: 08:00
+
+Laden hat nun geöffnet!
+
+
+
+
+
+Einkauf:     
+Hannchen Sahin, 
+Jeans, 
+3, 
+01.06.2020  09:00
+
+
+Einkauf:     
+Hannchen Sahin, 
+Ohrring, Diamant, 
+2, 
+01.06.2020  09:00
+
+
+Einkauf:     
+Hannchen Sahin, 
+Tisch, Eiche, 
+2, 
+01.06.2020  09:00
+
+
+Einkauf:     
+Sabina Koll, 
+Diadem, Kristall, 
+3, 
+01.06.2020  12:00
+
+
+Der Bestand des Artikels Tisch, Eiche liegt unter dem Mindestbestand!
+
+Einkauf:     
+Sabina Koll, 
+Tisch, Eiche, 
+2, 
+01.06.2020  12:00
+
+
+Einkauf:     
+Sabina Koll, 
+Ohrring, Diamant, 
+3, 
+01.06.2020  12:00
+
+
+Einkauf:     
+Sandra Sahm, 
+Gaming PC V1 Intel i7 8700k, 
+3, 
+01.06.2020  14:00
+
+
+Einkauf:     
+Sandra Sahm, 
+Harrie Vollkornbrot, 
+2, 
+01.06.2020  14:00
+
+
+Einkauf:     
+Sandra Sahm, 
+Apfel, 1KG Sack, 
+1, 
+01.06.2020  14:00
+
+
+Einkauf:     
+Heidrun Maiwald, 
+Apfel, 1KG Sack, 
+3, 
+01.06.2020  16:00
+
+
+Einkauf:     
+Heidrun Maiwald, 
+Hemd, 
+3, 
+01.06.2020  16:00
+
+
+Einkauf:     
+Heidrun Maiwald, 
+Jeans, 
+2, 
+01.06.2020  16:00
+
+
+Einkauf:     
+Alfred Prüfer, 
+Stuhl, auch Eiche, 
+2, 
+01.06.2020  18:00
+
+
+Einkauf:     
+Alfred Prüfer, 
+Apfel, 1KG Sack, 
+1, 
+01.06.2020  18:00
+
+
+Einkauf:     
+Alfred Prüfer, 
+Diadem, Kristall, 
+3, 
+01.06.2020  18:00
+
+
+Der Bestand des Artikels Apfel, 1KG Sack liegt unter dem Mindestbestand!
+
+Einkauf:     
+Christa Reichenbach, 
+Apfel, 1KG Sack, 
+3, 
+01.06.2020  19:00
+
+
+Einkauf:     
+Christa Reichenbach, 
+Ohrring, Diamant, 
+3, 
+01.06.2020  19:00
+
+
+Der Bestand des Artikels Ohrring, Diamant liegt unter dem Mindestbestand!
+
+Einkauf:     
+Christa Reichenbach, 
+Ohrring, Diamant, 
+2, 
+01.06.2020  19:00
+
+
+Der Bestand des Artikels Jeans liegt unter dem Mindestbestand!
+
+Einkauf:     
+Muzaffer Reinhart, 
+Jeans, 
+3, 
+01.06.2020  20:00
+
+
+Einkauf:     
+Muzaffer Reinhart, 
+Stuhl, auch Eiche, 
+3, 
+01.06.2020  20:00
+
+
+Einkauf:     
+Muzaffer Reinhart, 
+Stuhl, auch Eiche, 
+1, 
+01.06.2020  20:00
+
+
+
+
+Der Laden hat nun geschlossen!
+
+
+Artikelname: Hemd                                 Menge: 7          Verkauft: 3        Gewinn: 15,00
+Artikelname: Jeans                                Menge: 5          Verkauft: 8        Gewinn: 63,92
+Artikelname: Gaming PC V1 Intel i7 8700k          Menge: 8          Verkauft: 3        Gewinn: 269,97
+Artikelname: Fernseher WQHD Ultra von Samsong     Menge: 8          Verkauft: 0        Gewinn: 0,00
+Artikelname: Harrie Vollkornbrot                  Menge: 7          Verkauft: 2        Gewinn: 0,60
+Artikelname: Apfel, 1KG Sack                      Menge: 6          Verkauft: 8        Gewinn: 3,20
+Artikelname: Tisch, Eiche                         Menge: 1          Verkauft: 4        Gewinn: 43,96
+Artikelname: Stuhl, auch Eiche                    Menge: 11         Verkauft: 6        Gewinn: 95,94
+Artikelname: Diadem, Kristall                     Menge: 11         Verkauft: 6        Gewinn: 65,94
+Artikelname: Ohrring, Diamant                     Menge: 6          Verkauft: 10        Gewinn: 559,90

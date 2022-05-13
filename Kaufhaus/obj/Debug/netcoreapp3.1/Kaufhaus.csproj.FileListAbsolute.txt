@@ -1,0 +1,13 @@
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.exe
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.deps.json
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.runtimeconfig.json
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.runtimeconfig.dev.json
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.dll
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\bin\Debug\netcoreapp3.1\Kaufhaus.pdb
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.csprojAssemblyReference.cache
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.csproj.CoreCompileInputs.cache
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.AssemblyInfoInputs.cache
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.AssemblyInfo.cs
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.dll
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.pdb
+C:\Users\lord-\Documents\SL_OOProg\SS20_OOProg_Jan-Oliver_Lehnen\Kaufhaus\obj\Debug\netcoreapp3.1\Kaufhaus.genruntimeconfig.cache

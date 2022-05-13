@@ -1,0 +1,182 @@
+
+------------------------------------------------------------------------
+-    Edeko Centre Kaufhaus am See | Hauptstr. 1, 29389 Bad Bodenteich  -
+------------------------------------------------------------------------
+Datum: 02.06.2020
+Uhrzeit: 08:00
+
+Laden hat nun geöffnet!
+
+
+Für den Artikel Jeans wurden 12 nachbestellt!
+
+Für den Artikel Apfel, 1KG Sack wurden 14 nachbestellt!
+
+Für den Artikel Tisch, Eiche wurden 4 nachbestellt!
+
+Für den Artikel Ohrring, Diamant wurden 16 nachbestellt!
+
+
+
+
+Einkauf:     
+Gundolf Dröge, 
+Tisch, Eiche, 
+3, 
+02.06.2020  09:00
+
+
+Einkauf:     
+Gundolf Dröge, 
+Ohrring, Diamant, 
+2, 
+02.06.2020  09:00
+
+
+Einkauf:     
+Gundolf Dröge, 
+Ohrring, Diamant, 
+2, 
+02.06.2020  09:00
+
+
+Der Bestand des Artikels Tisch, Eiche liegt unter dem Mindestbestand!
+
+Einkauf:     
+Karl-Dieter Krumm, 
+Tisch, Eiche, 
+2, 
+02.06.2020  11:00
+
+
+Einkauf:     
+Karl-Dieter Krumm, 
+Jeans, 
+3, 
+02.06.2020  11:00
+
+
+Einkauf:     
+Sabina Koll, 
+Hemd, 
+1, 
+02.06.2020  12:00
+
+
+Einkauf:     
+Sabina Koll, 
+Apfel, 1KG Sack, 
+3, 
+02.06.2020  12:00
+
+
+Einkauf:     
+Sabina Koll, 
+Gaming PC V1 Intel i7 8700k, 
+3, 
+02.06.2020  12:00
+
+
+Einkauf:     
+Karsten Anders, 
+Ohrring, Diamant, 
+1, 
+02.06.2020  13:00
+
+
+Einkauf:     
+Karsten Anders, 
+Fernseher WQHD Ultra von Samsong, 
+3, 
+02.06.2020  13:00
+
+
+Einkauf:     
+Karsten Anders, 
+Diadem, Kristall, 
+1, 
+02.06.2020  13:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Sylvio Theisen, 
+Gaming PC V1 Intel i7 8700k, 
+2, 
+02.06.2020  17:00
+
+
+Einkauf:     
+Sylvio Theisen, 
+Jeans, 
+1, 
+02.06.2020  17:00
+
+
+Einkauf:     
+Sylvio Theisen, 
+Ohrring, Diamant, 
+2, 
+02.06.2020  17:00
+
+
+Einkauf:     
+Alessandro Weinzierl, 
+Apfel, 1KG Sack, 
+3, 
+02.06.2020  19:00
+
+
+Einkauf:     
+Alessandro Weinzierl, 
+Diadem, Kristall, 
+2, 
+02.06.2020  19:00
+
+
+Der Bestand des Artikels Gaming PC V1 Intel i7 8700k liegt unter dem Mindestbestand!
+
+Einkauf:     
+Alessandro Weinzierl, 
+Gaming PC V1 Intel i7 8700k, 
+2, 
+02.06.2020  19:00
+
+
+Einkauf:     
+Ortrud Siemers, 
+Stuhl, auch Eiche, 
+3, 
+02.06.2020  20:00
+
+
+Einkauf:     
+Ortrud Siemers, 
+Harrie Vollkornbrot, 
+3, 
+02.06.2020  20:00
+
+
+Einkauf:     
+Ortrud Siemers, 
+Apfel, 1KG Sack, 
+1, 
+02.06.2020  20:00
+
+
+
+
+Der Laden hat nun geschlossen!
+
+
+Artikelname: Hemd                                 Menge: 6          Verkauft: 1        Gewinn: 5,00
+Artikelname: Jeans                                Menge: 13         Verkauft: 4        Gewinn: 31,96
+Artikelname: Gaming PC V1 Intel i7 8700k          Menge: 1          Verkauft: 7        Gewinn: 629,93
+Artikelname: Fernseher WQHD Ultra von Samsong     Menge: 5          Verkauft: 3        Gewinn: 297,00
+Artikelname: Harrie Vollkornbrot                  Menge: 4          Verkauft: 3        Gewinn: 0,90
+Artikelname: Apfel, 1KG Sack                      Menge: 13         Verkauft: 7        Gewinn: 2,80
+Artikelname: Tisch, Eiche                         Menge: 0          Verkauft: 5        Gewinn: 54,95
+Artikelname: Stuhl, auch Eiche                    Menge: 8          Verkauft: 3        Gewinn: 47,97
+Artikelname: Diadem, Kristall                     Menge: 8          Verkauft: 3        Gewinn: 32,97
+Artikelname: Ohrring, Diamant                     Menge: 15         Verkauft: 7        Gewinn: 391,93
